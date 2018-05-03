@@ -129,7 +129,7 @@ Crops the viewport with black bars to match the Reference Resolution along the c
 
 ![image alt text](images/image_8.png)!
 Uncropped
-[image alt text](images/image_9.png)
+![image alt text](images/image_9.png)!
 With only the Y axis checked
 
 ## Run In Edit Mode
