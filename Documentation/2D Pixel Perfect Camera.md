@@ -50,7 +50,7 @@ To ensure the pixelated movement of Sprites are consistent with each other, foll
 
 1. Open the **Snap Settings** (menu: Edit > Snap Settings...)
 
-2. For **Move X/Y/Z**, set their values to 1/Asset Pixels Per Unit
+2. For **Move X/Y/Z**, set their values to '1 divided by Asset Pixels Per Unit (PPU) value'
 
 3. Snap settings are not applied retroactively. If there are any pre-existing GameObjects in your Scene, select each of them and click *Snap All Axes* to apply the Snap settings
 
