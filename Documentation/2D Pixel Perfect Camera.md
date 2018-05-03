@@ -127,9 +127,9 @@ Enable this feature to snap Sprite Renderers to a grid in world space at render-
 
 Crops the viewport with black bars to match the Reference Resolution along the checked axis. Black bars are added to make the Game View fit the full screen resolution.
 
-![image alt text](images/image_8.png)!
+![image alt text](images/image_8.png)
 Uncropped
-![image alt text](images/image_9.png)!
+![image alt text](images/image_9.png)
 With only the Y axis checked
 
 ## Run In Edit Mode
