@@ -26,7 +26,9 @@ Before using the component, first ensure your Sprites are prepared correctly for
 
 ![image alt text](images/image_2.png)
 
-3. Set their **Compression** to 'None'.![image alt text](images/image_3.png)
+3. Set their **Compression** to 'None'
+
+![image alt text](images/image_3.png)
 
 4. Follow the steps below to correctly set the pivot for a Sprite
  
