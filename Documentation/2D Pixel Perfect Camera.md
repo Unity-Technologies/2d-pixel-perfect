@@ -36,9 +36,9 @@ Before using the component, first ensure your Sprites are prepared correctly for
 
     3. Under the *Sprite* settings, select *Custom* from the **Pivot** drop-down menu. Then select *Pixels* from the **Pivot Unit Mode** drop-down menu. This mode allows you to input pivot positions in pixels, and snaps the pivot point to pixel corners automatically when dragging the pivot into position.
 
-![image alt text](images/image_4.png)
-
     4. Repeat step 4c for each individual Sprite element as needed.
+    
+    ![image alt text](images/image_4.png)
 
 # Snap Settings
 
