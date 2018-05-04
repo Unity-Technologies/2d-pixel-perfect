@@ -34,7 +34,7 @@ Before using the component, first ensure your Sprites are prepared correctly for
  
     1. Open the Sprite Editor for the selected Sprite. 
 
-    2. If Sprite Mode is set to Multiple and there are multiple Sprite elements, click on each of the elements to select it. The pivot point must be set for each Sprite element individually.
+    2. If Sprite Mode is set to Multiple and there are multiple Sprite elements, do note that a pivot point must be set for each Sprite element separately.
 
     3. Under the *Sprite* settings, select *Custom* from the **Pivot** drop-down menu. Then select *Pixels* from the **Pivot Unit Mode** drop-down menu. This mode allows you to input pivot positions in pixels, and snaps the pivot point to pixel corners automatically when dragging the pivot into position.
 
