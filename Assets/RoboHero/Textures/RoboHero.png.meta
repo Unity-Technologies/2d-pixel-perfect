@@ -63,7 +63,6 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  pushPullDilation: 0
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform

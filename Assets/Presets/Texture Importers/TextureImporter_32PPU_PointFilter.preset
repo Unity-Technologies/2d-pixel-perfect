@@ -232,10 +232,6 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_PushPullDilation
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
     propertyPath: m_PlatformSettings.Array.size
     value: 2
     objectReference: {fileID: 0}

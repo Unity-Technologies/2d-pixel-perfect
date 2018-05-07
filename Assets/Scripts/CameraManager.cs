@@ -11,7 +11,7 @@ public class CameraManager : MonoBehaviour
 
     void Awake()
     {
-        isPixelPerfect = true;
+        isPixelPerfect = false;
         ValidateCameras(isPixelPerfect);
     }
 
