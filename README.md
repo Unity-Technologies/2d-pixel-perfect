@@ -18,8 +18,8 @@ If you want to activate these features in another project:
 
 ```javascript
 {
-	"dependencies": {
-		"com.unity.2d.pixel-perfect": "1.0.0-preview"
+  "dependencies": {
+    "com.unity.2d.pixel-perfect": "1.0.0-preview"
   },
   "registry": "https://staging-packages.unity.com"
 }
