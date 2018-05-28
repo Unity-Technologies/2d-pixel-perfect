@@ -333,7 +333,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_SpriteID
-    value: 340f3b0b8054b45a9b1c35f4b123d6dd
+    value: 8ac580ca9e9494dcbba186d77211d718
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Vertices.Array.size
