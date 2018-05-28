@@ -29,34 +29,34 @@ Preset:
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: assetsPPU
+    propertyPath: m_AssetsPPU
     value: 32
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: refResolutionX
+    propertyPath: m_RefResolutionX
     value: 320
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: refResolutionY
-    value: 240
+    propertyPath: m_RefResolutionY
+    value: 180
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: upscaleRT
+    propertyPath: m_UpscaleRT
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: pixelSnapping
+    propertyPath: m_PixelSnapping
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: cropFrameY
+    propertyPath: m_CropFrameX
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: cropFrameX
+    propertyPath: m_CropFrameY
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: stretchFill
+    propertyPath: m_StretchFill
     value: 0
     objectReference: {fileID: 0}
