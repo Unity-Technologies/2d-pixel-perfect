@@ -6,7 +6,7 @@ The **2D Pixel Perfect** package contains the **Pixel Perfect Camera** component
 
 It is a single component that makes all the calculations needed to scale the viewport with resolution changes, removing the hassle from the user. The user can adjust the definition of the pixel art rendered within the camera viewport through the component settings, as well preview any changes immediately in Game view by using the Run in Edit Mode feature.
 
-![image alt text](images/image_0.png)
+![image alt text](images/2D_Pix_image_0.png)
 
 The **Pixel Perfect Camera** gizmo in the Scene
 
@@ -20,15 +20,15 @@ Before using the component, first ensure your Sprites are prepared correctly for
 
 1. After importing your textures into the project as Sprites, set all Sprites to the same **Pixels Per Unit** value.
 
-![image alt text](images/image_1.png)
+![image alt text](images/2D_Pix_image_1.png)
 
 2. In the Sprites' Inspector window, set their **Filter Mode** to *Point*.
 
-![image alt text](images/image_2.png)
+![image alt text](images/2D_Pix_image_2.png)
 
 3. Set their **Compression** to 'None'
 
-![image alt text](images/image_3.png)
+![image alt text](images/2D_Pix_image_3.png)
 
 4. Follow the steps below to correctly set the pivot for a Sprite
  
@@ -40,13 +40,13 @@ Before using the component, first ensure your Sprites are prepared correctly for
 
     4. Repeat step 4c for each individual Sprite element as needed.
     
-    ![image alt text](images/image_4.png)
+    ![image alt text](images/2D_Pix_image_4.png)
 
 # Snap Settings
 
 To ensure the pixelated movement of Sprites are consistent with each other, follow the below steps to set the proper snap settings for your project.
 
-![image alt text](images/image_5.png)
+![image alt text](images/2D_Pix_image_5.png)
 
 1. Open the **Snap Settings** (menu: Edit > Snap Settings...)
 
@@ -58,7 +58,7 @@ To ensure the pixelated movement of Sprites are consistent with each other, foll
 
 # Reference Table
 
-![image alt text](images/image_6.png)
+![image alt text](images/2D_Pix_image_6.png)
 The component's Inspector window
 
 <table>
@@ -115,7 +115,7 @@ By default, the Scene is rendered at the pixel perfect resolution closest to the
 
 Enable this option to have the Scene rendered to a temporary texture set as close as possible to the **Reference Resolution**, while maintaining the full screen aspect ratio. This temporary texture is then upscaled to fit the full screen.
 
-![image alt text](images/image_7.png)
+![image alt text](images/2D_Pix_image_7.png)
 
 The result is unaliased and unrotated pixels, which may be a desirable visual style for certain game projects.
 
@@ -129,9 +129,9 @@ Enable this feature to snap Sprite Renderers to a grid in world space at render-
 
 Crops the viewport along the checked axis with black bars to match the **Reference Resolution**. Black bars are added to make the Game View fit the full screen resolution.
 
-![image alt text](images/image_8.png)
+![image alt text](images/2D_Pix_image_8.png)
 Uncropped
-![image alt text](images/image_9.png)
+![image alt text](images/2D_Pix_image_9.png)
 With only the Y axis checked
 
 ## Run In Edit Mode
