@@ -68,7 +68,7 @@ To ensure the pixelated movement of Sprites are consistent with each other, foll
 |**Crop Frame**|Crops the viewport with black bars, to match the Reference Resolution along the checked axis.|
 |**Stretch Fill (available when both X and Y are checked)**|Enable to expand the viewport to fit the screen resolution while maintaining the viewport's aspect ratio.|
 |**Run In Edit Mode**|Enable this to preview Camera setting changes in Edit Mode.|
-|**Current Pixel Ratio (available when _Run In Edit Mode_ is enabled**|Shows the size ratio of the rendered Sprites compared to their original size.|
+|**Current Pixel Ratio (available when _Run In Edit Mode_ is enabled)**|Shows the size ratio of the rendered Sprites compared to their original size.|
 
 ## Property Details
 
