@@ -11,22 +11,7 @@ To get started, download and install the latest Unity 2018.2 beta, here: https:/
 ### Get the Package
 
 These samples already include the necessary manifest in the Packages folder of the project.
-If you want to activate these features in another project:
-
-1. Find the manifest.json file in the Packages folder of your project.
-2. Edit it to look like this:
-
-```javascript
-{
-  "dependencies": {
-    "com.unity.2d.pixel-perfect": "1.0.0-preview"
-  },
-  "registry": "https://staging-packages.unity.com"
-}
-```
-
-1. Back in Unity, the package will be downloaded and imported. 
-2. Done!
+If you want to activate these features in another project, you may use the Package Manager.
 
 Find out more about packages here: **[Unity Package Manager](https://docs.unity3d.com/Packages/com.unity.package-manager-ui@1.8/manual/index.html)**
 
