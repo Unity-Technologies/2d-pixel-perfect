@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4814366037928996}
   - component: {fileID: 212226390345236712}
   m_Layer: 8
-  m_Name: player_0
+  m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37,7 +37,7 @@ GameObject:
   - component: {fileID: 4738302139900486}
   - component: {fileID: 95268993685353230}
   m_Layer: 8
-  m_Name: player model
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -53,7 +53,7 @@ GameObject:
   - component: {fileID: 4076422105921532}
   - component: {fileID: 212520959363244624}
   m_Layer: 8
-  m_Name: blob shadow
+  m_Name: Blob Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69,7 +69,7 @@ GameObject:
   - component: {fileID: 4391819389982064}
   - component: {fileID: 58112922696124902}
   m_Layer: 8
-  m_Name: collider_body
+  m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -112,7 +112,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1613773955045490}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4738302139900486}
