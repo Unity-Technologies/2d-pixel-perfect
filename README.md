@@ -16,7 +16,7 @@ If you want to activate these features in another project, you may use the Packa
 Find out more about packages here: **[Unity Package Manager](https://docs.unity3d.com/Packages/com.unity.package-manager-ui@1.8/manual/index.html)**
 
 ### Preview Feature Documentation
-* **[Pixel Perfect Camera](https://github.com/Unity-Technologies/2d-pixel-perfect/blob/master/Documentation/2D%20Pixel%20Perfect%20Camera.md)**
+* **[Pixel Perfect Camera](https://docs.unity3d.com/Packages/com.unity.2d.pixel-perfect@1.0/manual/index.html)**
 
 ## ❗️❗️❗️ Warning ❗️❗️❗️
 
